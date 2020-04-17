@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>47.0</version>
+    <version>48.0</version>
     <types>
         <members>Test23677</members>
         <name>ApexClass</name>
@@ -12,5 +12,9 @@
     <types>
         <members>unfiled$public/Test_Template_23677</members>
         <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>Account-24715</members>
+        <name>Layout</name>
     </types>
 </Package>
