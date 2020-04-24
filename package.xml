@@ -17,4 +17,8 @@
         <members>Account-24715</members>
         <name>Layout</name>
     </types>
+    <types>
+        <members>ST25040</members>
+        <name>StaticResource</name>
+    </types>
 </Package>
